@@ -17737,5 +17737,117 @@
       }
     ],
     "_id": "679b8ab25e6537eba30510ad"
+  },
+  {
+    "vin": "WAUACGFF1F1080568",
+    "brand": "Audi",
+    "model": "A3",
+    "year": 2014,
+    "engineVol": "1.8",
+    "fuelType": "Бензин",
+    "transmission": "Автомат",
+    "driveType": "Передній",
+    "bodyType": "Седан",
+    "wasDamaged": "Був у ДТП",
+    "ads": [
+      {
+        "id": "37796706",
+        "licensePlate": "не указан",
+        "link": "https://auto.ria.com/uk/auto_audi_a3_37796706.html",
+        "millage": "173 тис. км",
+        "price": "12500 $",
+        "date": "30.01.2025, 16:31",
+        "phone": "0996819592",
+        "phone2": "не указан",
+        "phone3": "не указан",
+        "name": "Olha Bila",
+        "location": "Дніпро (Дніпропетровськ)"
+      }
+    ],
+    "_id": "679b8d3e2ddfb372aee85d47"
+  },
+  {
+    "vin": "5UXFG83548LZ91627",
+    "brand": "BMW",
+    "model": "X6",
+    "year": 2008,
+    "engineVol": "4.4",
+    "fuelType": "Бензин",
+    "transmission": "Автомат",
+    "driveType": "Повний",
+    "bodyType": "Позашляховик / Кросовер",
+    "wasDamaged": "Не був у ДТП",
+    "ads": [
+      {
+        "id": "37780021",
+        "licensePlate": "AE3597MM",
+        "link": "https://auto.ria.com/uk/auto_bmw_x6_37780021.html",
+        "millage": "178 тис. км",
+        "price": "14000 $",
+        "date": "30.01.2025, 16:31",
+        "phone": "0959484418",
+        "phone2": "не указан",
+        "phone3": "не указан",
+        "name": "Леонид Олекійович Ковальчук",
+        "location": "Першотравенськ"
+      }
+    ],
+    "_id": "679b8d4f2ddfb372aee85d49"
+  },
+  {
+    "vin": "JMZBK14Z591806364",
+    "brand": "Mazda",
+    "model": "3",
+    "year": 2008,
+    "engineVol": "1.6",
+    "fuelType": "Газ пропан-бутан  /  Бензин",
+    "transmission": "Автомат",
+    "driveType": "Передній",
+    "bodyType": "Хетчбек",
+    "wasDamaged": "Не був у ДТП",
+    "ads": [
+      {
+        "id": "37796778",
+        "licensePlate": "AE5002IK",
+        "link": "https://auto.ria.com/uk/auto_mazda_3_37796778.html",
+        "millage": "128 тис. км",
+        "price": "5950 $",
+        "date": "30.01.2025, 16:41",
+        "phone": "0974848053",
+        "phone2": "не указан",
+        "phone3": "не указан",
+        "name": "Дмитро",
+        "location": "Верхньодніпровськ"
+      }
+    ],
+    "_id": "679b8f962ddfb372aee85d4c"
+  },
+  {
+    "vin": "1N4AL3AP9HC105547",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2016,
+    "engineVol": "2.5",
+    "fuelType": "Бензин",
+    "transmission": "Варіатор",
+    "driveType": "Передній",
+    "bodyType": "Седан",
+    "wasDamaged": "Не був у ДТП",
+    "ads": [
+      {
+        "id": "37796786",
+        "licensePlate": "KE2792AE",
+        "link": "https://auto.ria.com/uk/auto_nissan_altima_37796786.html",
+        "millage": "113 тис. км",
+        "price": "11200 $",
+        "date": "30.01.2025, 16:41",
+        "phone": "0672741691",
+        "phone2": "не указан",
+        "phone3": "не указан",
+        "name": "Сергій Станіславович Черниш",
+        "location": "Дніпро (Дніпропетровськ)"
+      }
+    ],
+    "_id": "679b8f9f2ddfb372aee85d4e"
   }
 ]
