@@ -1,0 +1,29 @@
+{
+    "baseURL": "https://auto.ria.com/uk/search/?indexName=auto,order_auto,newauto_search",
+    "parameters": {
+      "region": "&region.id[0]={regionId}",
+      "city": "&city.id[0]={cityId}",
+      "year": {
+        "gte": "&year[0].gte={yearGte}",
+        "lte": "&year[0].lte={yearLte}"
+      },
+      "priceUSD": {
+        "gte": "&price.USD.gte={priceGte}&price.currency=1",
+        "lte": "&price.USD.lte={priceLte}&price.currency=1"
+      },
+      "mileage": {
+        "gte": "&mileage.gte={mileageGte}",
+        "lte": "&mileage.lte={mileageLte}"
+      },
+      "fuel": "&fuel.id[0]={fuelId}",
+      "gearbox": "&gearbox.id[0]={gearboxId}",
+      "drive": "&drive.id[0]={driveId}",
+      "body": "&body.id[0]={bodyId}",
+      "engine": {
+        "gte": "&engine.gte={engineGte}",
+        "lte": "&engine.lte={engineLte}"
+      },
+      "brand": "&brand.id[0]={brandId}",
+      "model": "&model.id[0]={modelId}"
+    }
+  }

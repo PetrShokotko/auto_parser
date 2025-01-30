@@ -1,0 +1,6 @@
+{
+  "sentCount": 60,
+  "sendingEnabled": true,
+  "limit": 300,
+  "sendInterval": 25
+}
